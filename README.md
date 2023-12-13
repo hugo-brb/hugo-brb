@@ -14,10 +14,11 @@ Mon expertise s'étend dans le développement web, couvrant à la fois le front-
 - Python
 - C++ (niveau intermédiaire)
   
-Mes outils préférés : ⚙️ les IDE d'IntelliJ et Virtual Studio Code
+⚙️ Mes outils préférés : les IDE d'IntelliJ et Virtual Studio Code
 
 ## 🌟 Projets Principaux
-J'ai travaillé sur des projets passionnants, dont le site : (https://multi-renovation-belledonne.fr/). Chacun de ces projets a été une opportunité d'apprendre et de grandir en tant que développeur.
+J'ai travaillé sur des projets passionnants, dont le site : (https://multi-renovation-belledonne.fr/). 
+Chacun de ces projets a été une opportunité d'apprendre et de grandir en tant que développeur.
 
 ## 🤝 Contributions Open Source
 Ouvert à la collaboration et aux contributions à des projets open source.
