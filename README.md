@@ -11,8 +11,8 @@ Mon expertise s'étend dans le développement web, couvrant à la fois le front-
 ## 🔧 Langages & Outils
 - Java
 - HTML/CSS/JS
+- REACT
 - Python
-- C++ (niveau intermédiaire)
   
 ⚙️ Mes outils préférés : les IDE d'IntelliJ et Virtual Studio Code
 
