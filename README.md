@@ -29,6 +29,7 @@ N'hésitez pas à me contacter pour des opportunités de collaboration ou des qu
 - 🐙 [GitHub](https://github.com/hugo-brb)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hugo-barbieri-9b37982a1/)
 - 📸 [Instagram](https://www.instagram.com/__.hugo.brb.__/)
+- 🌐 [website](https://www.hugobarbieri.go.yo.fr)
 
 ## ℹ️ Autres Informations
 Je suis actuellement étudiant en BUT Informatique à l'IUT2 de Grenoble, en France.
