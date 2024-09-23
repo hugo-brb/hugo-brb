@@ -10,9 +10,15 @@ Mon expertise s'étend dans le développement web, couvrant à la fois le front-
 
 ## 🔧 Langages & Outils
 - Java
-- HTML/CSS/JS
+- C++
+- HTML/CSS
+- PHP
+- JS
 - REACT
 - Python
+- SQL (PostgreSql)
+
+- UML
   
 ⚙️ Mes outils préférés : les IDE d'IntelliJ et Virtual Studio Code
 
