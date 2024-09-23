@@ -16,10 +16,6 @@ Mon expertise s'étend dans le développement web, couvrant à la fois le front-
   
 ⚙️ Mes outils préférés : les IDE d'IntelliJ et Virtual Studio Code
 
-## 🌟 Projets Principaux
-J'ai travaillé sur des projets passionnants, dont le site : (https://multi-renovation-belledonne.fr/). 
-Chacun de ces projets a été une opportunité d'apprendre et de grandir en tant que développeur.
-
 ## 🤝 Contributions Open Source
 Ouvert à la collaboration et aux contributions à des projets open source.
 
@@ -29,7 +25,7 @@ N'hésitez pas à me contacter pour des opportunités de collaboration ou des qu
 - 🐙 [GitHub](https://github.com/hugo-brb)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hugo-barbieri-9b37982a1/)
 - 📸 [Instagram](https://www.instagram.com/__.hugo.brb.__/)
-- 🌐 [Portfolio](https://www.hugobarbieri.go.yo.fr)
+- 🌐 [Portfolio](https://www.hugobarbieri.fr)
 
 ## ℹ️ Autres Informations
 Je suis actuellement étudiant en BUT Informatique à l'IUT2 de Grenoble, en France.
